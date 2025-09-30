@@ -11,7 +11,7 @@ cd /home/$usuario/GnW/recursos
 unzip openocd-git.deb.zip
 sudo dpkg -i openocd-git_*_amd64.deb
 sudo apt-get -y -f install
-rm openocd*
+rm openocd*.deb
 cd -
 #echo export OPENOCD=/opt/openocd-git/bin/openocd >>~/.bashrc
 if grep -q "export OPENOCD=\"/opt/openocd-git/bin/openocd\"" /home/$usuario/.bashrc ; then

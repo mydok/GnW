@@ -23,7 +23,7 @@ case $menuitem in
     git clone https://github.com/bzhxx/LCD-Game-Shrinker
     sleep 2
     sudo apt update
-    sudo apt install -y snapd libopenjp2-7 libtiff5 libxslt-dev libatlas-base-dev inkscape
+    sudo apt install -y snapd libopenjp2-7 libtiff6 libxslt-dev libatlas-base-dev inkscape
     sudo snap install core
     #sudo snap install inkscape
     cd /home/$usuario/gameandwatch/LCD-Game-Shrinker

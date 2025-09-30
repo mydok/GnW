@@ -108,7 +108,7 @@ if [ "$confirm" = "s" ]; then
     #sleep 5
     git clone https://github.com/bzhxx/LCD-Game-Shrinker
     sudo apt update
-    sudo apt install snapd libopenjp2-7 libtiff5 libxslt-dev libatlas-base-dev
+    sudo apt install snapd libopenjp2-7 libtiff6 libxslt-dev libatlas-base-dev
     sudo snap install core
     sudo snap install inkscape
     cd /home/$usuario/gameandwatch/LCD-Game-Shrinker
@@ -194,7 +194,7 @@ else
         #sleep 5
         git clone https://github.com/bzhxx/LCD-Game-Shrinker
         sudo apt update
-        sudo apt install snapd libopenjp2-7 libtiff5 libxslt-dev libatlas-base-dev
+        sudo apt install snapd libopenjp2-7 libtiff6 libxslt-dev libatlas-base-dev
         sudo snap install core
         sudo snap install inkscape
         cd /home/$usuario/gameandwatch/LCD-Game-Shrinker
