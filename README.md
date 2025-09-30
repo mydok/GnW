@@ -1,4 +1,5 @@
-# GnW por julenvitoria
+# GnW por julenvitoria - Fork actualizado por Mydok
+
 Game & Watch Super Mario 35th aniversary y Zelda - menus utilidades para backup, restauracion y flasheo de CFW y Retro-Go.
 
 ATENCION: ESTOS MENUS ESTAN AUN SIN TERMINAR.
